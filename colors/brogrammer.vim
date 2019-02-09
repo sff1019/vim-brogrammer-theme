@@ -15,8 +15,8 @@ hi Visual ctermfg=NONE ctermbg=238 cterm=NONE guifg=NONE guibg=#444444 gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#2f2f2f gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#2f2f2f gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#2f2f2f gui=NONE
-hi LineNr ctermfg=244 ctermbg=236 cterm=NONE guifg=#838586 guibg=#2f2f2f gui=NONE
-hi VertSplit ctermfg=240 ctermbg=240 cterm=NONE guifg=#575858 guibg=#575858 gui=NONE
+hi LineNr ctermfg=242 ctermbg=234 cterm=NONE guifg=#838586 guibg=#2f2f2f gui=NONE
+hi VertSplit ctermfg=244 ctermbg=234 cterm=NONE guifg=#575858 guibg=#575858 gui=NONE
 hi MatchParen ctermfg=167 ctermbg=NONE cterm=underline guifg=#e74c3c guibg=NONE gui=underline
 hi StatusLine ctermfg=231 ctermbg=240 cterm=bold guifg=#ecf0f1 guibg=#575858 gui=bold
 hi StatusLineNC ctermfg=231 ctermbg=240 cterm=NONE guifg=#ecf0f1 guibg=#575858 gui=NONE
@@ -110,6 +110,6 @@ hi cssBraces ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 
 " GitGutter Customizations
 hi SignColumn ctermfg=244 ctermbg=236 guifg=#838586 guibg=#2f2f2f
-hi GitGutterChangeDefault ctermfg=244 ctermbg=236 guifg=#bbbb00 guibg=#2f2f2f
-hi GitGutterAddDefault ctermfg=2 ctermbg=236 guifg=#009900 guibg=#2f2f2f
+hi GitGutterChangeDefault ctermfg=172 ctermbg=234 guifg=#bbbb00 guibg=#1a1a1a
+hi GitGutterAddDefault ctermfg=64 ctermbg=234 guifg=#44800a guibg=#1a1a1a
 hi GitGutterDeleteDefault ctermfg=1 ctermbg=236 guifg=#ff2222 guibg=#2f2f2f
